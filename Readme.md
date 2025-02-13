@@ -2,4 +2,10 @@
 
 Project descrirption
 
-Домашнее задание
+Домашнее задание!
+
+## Instalation instructions
+-1
+-2
+-3
+-4
